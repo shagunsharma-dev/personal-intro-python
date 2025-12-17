@@ -1,0 +1,10 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+hobby = input("What is your favorite hobby? ")
+city = input("Which city are you from? ")
+dream = input("What is your dream career? ")
+
+print("\n🎉 Welcome", name + "! 🎉")
+print(f"You are {age} years old, live in {city}, and love {hobby}.")
+print(f"Dream big! Becoming a {dream} sounds amazing ✨")
+print("We’re happy to have you here 😊")
